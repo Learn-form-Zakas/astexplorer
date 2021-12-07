@@ -1,0 +1,5 @@
+<view>
+  <text style="font-weight: 600;">
+    Hello, word
+  </text>
+</view>
